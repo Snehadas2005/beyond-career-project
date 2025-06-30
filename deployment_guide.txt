@@ -1,0 +1,2 @@
+I deployed on "Netlify" since it's quick, automatic, and familiar from my previous projects. 
+The deployment process was seamless and efficient.

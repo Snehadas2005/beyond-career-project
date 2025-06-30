@@ -1,0 +1,3 @@
+The major challenge was implementing the interactive mouse pointer movement along with the Three.js background animation. 
+Smooth transitions with increasing rates were new to me. 
+Solving animation sync took debugging and multiple adjustments.
